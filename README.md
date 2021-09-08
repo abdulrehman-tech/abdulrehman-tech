@@ -22,7 +22,7 @@
 - 📱 Started my journey from Desktop development.
 - ✨ I'm learning Flutter, Machine Learning, Data Science etc.
 - 🎮 COD Mobile World Championship Qualified.
-- 📄 Check my portfolio at <a href="https://abdul-portfolio-b9c2sf.vertex360.co/">MY PORTFOLIO</a>
+- 📄 Check my portfolio at <a href="https://abdulrehmandev.me/">MY PORTFOLIO</a>
 <br>
 <hr>
 <h3 align="left">Languages and Tools</h3>
