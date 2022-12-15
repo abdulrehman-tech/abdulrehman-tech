@@ -15,14 +15,15 @@
 </p>
 <h3>Talking about my personal stuff:</h3>
 
-- 🙋‍♂️ Final Year of BS in Software Engineeing at Comsats University Islamabad.
+- 🙋‍♂️ Mobile App Developer at GLobal Computer Services Oman.
+- 🎓 BS in Software Engineeing at Comsats University Islamabad.
 - 👉 Love to code and develop web and mobile Apps.
 - 💻 The tech I'm interested in Flutter, Dart, AR/VR and ML
 - ✍ Love to write blogs on New Tech.
 - 📱 Started my journey from Desktop development.
 - ✨ I'm learning Flutter, Machine Learning, Data Science etc.
 - 🎮 COD Mobile World Championship Qualified.
-- 📄 Check my portfolio at <a href="https://abdulrehmandev.me/">MY PORTFOLIO</a>
+- 📄 Check my portfolio at <a href="https://abdulrehmandev.netlify.app/">MY PORTFOLIO</a>
 <br>
 <hr>
 <h3 align="left">Languages and Tools</h3>
