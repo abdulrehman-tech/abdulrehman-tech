@@ -15,7 +15,7 @@
 </p>
 <h3>Talking about my personal stuff:</h3>
 
-- 🙋‍♂️ Mobile App Developer & UI/UX Expert at Global Computer Services Oman.
+- 🙋‍♂️ Mobile App Developer & UI/UX Expert at Mwasalat Oman.
 - 🎓 BS in Software Engineering at Comsats University Islamabad.
 - 👉 Love to code and develop web and mobile Apps.
 - 💻 The tech I'm interested in Flutter, Dart, UI/UX Design, Data Science and ML
